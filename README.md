@@ -1,8 +1,8 @@
-# React Todo Manager [![Build Status](https://travis-ci.org/PedroFelipe/frontend-tech-test.svg?branch=master)](https://travis-ci.org/PedroFelipe/frontend-tech-test)
+# React Todo Manager [![Build Status](https://travis-ci.org/PedroFelipe/react-todo-manager.svg?branch=master)](https://travis-ci.org/PedroFelipe/react-todo-manager)
 
 ![React Todo Manager](screenshot.png)
 
-A todo tasks manager written with React and a gorgeous UI.
+A todo task manager written with React and a gorgeous UI.
 
 ## [Demo](https://nl-react-todo-manager.herokuapp.com)
 
